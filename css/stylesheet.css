@@ -4,6 +4,6 @@ div h2{
 h2 + p{
     color: red;
 }
-ul{
+ul.list > li{
     list-style-type: none;
 }
